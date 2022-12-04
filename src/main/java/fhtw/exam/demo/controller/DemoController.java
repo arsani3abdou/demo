@@ -27,6 +27,7 @@ public class DemoController {
         //aenderung 2
         //33q34234
         //hallo
+        //letzte aenderung
         return service.getSquareNumber();
     }
 
